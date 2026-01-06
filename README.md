@@ -24,4 +24,4 @@ This project explores **Computer Vision** using the **FER-2013 dataset**, provid
 - Optional: **Git LFS** – for managing large image files if needed
 <img width="595" height="332" alt="image" src="https://github.com/user-attachments/assets/be86dea3-b2dc-4f55-ab90-cb5b75e951fe" />
 
-
+#Author: Lilian Alhalabi
